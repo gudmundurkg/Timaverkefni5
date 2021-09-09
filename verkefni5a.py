@@ -10,4 +10,4 @@ while index < len(a_str):
             break
     print(index)
     index += 1
-
+ 
